@@ -1,0 +1,7 @@
+load STM32L073RZTx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "C:\Users\kaspl\OneDrive\Stalinis kompiuteris\itsem\New folder\MDK-ARM\RTE\Device\STM32L073RZTx\" 
+set tpl_path "C:\Users\kaspl\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.3.0\MDK\CubeMX" 
+set dest_path "STM32L073RZTx" 
+SetCopyLibrary  "copy as reference"
